@@ -1,1 +1,33 @@
-hml
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>
+                Name : <input type="text">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Class : <input type="text">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                DOB : <input type="date">
+            </td>
+        </tr>
+            <tr>    
+            <td>
+                Ph. no. : <input type="text">
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
+
